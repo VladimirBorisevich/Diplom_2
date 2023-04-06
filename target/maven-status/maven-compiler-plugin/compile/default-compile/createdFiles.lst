@@ -1,0 +1,7 @@
+ru/yandex/burger/client/BaseApi.class
+ru/yandex/burger/client/OrderApi.class
+ru/yandex/burger/model/Order.class
+ru/yandex/burger/helper/OrderBuilder.class
+ru/yandex/burger/helper/UserBuilder.class
+ru/yandex/burger/model/User.class
+ru/yandex/burger/client/UserApi.class
